@@ -18,7 +18,7 @@
   </div> 
 </div>
 
-  ### <img src="https://github.com/faizramadhan0202/faizramadhan0202/blob/main/Assets/Developer1.gif" width="45" /> About Me :<a href=""> <img src="https://media3.giphy.com/media/ZEB6yFbLnhyQf7g3hn/giphy.gif" alt="side Gif" width="100px" /></a>
+  ### <img src="https://github.com/faizramadhan0202/faizramadhan0202/blob/main/Assets/Developer1.gif" width="45" /> About Me :<a href="https://github.com/faizramadhan0202"> <img src="https://media3.giphy.com/media/ZEB6yFbLnhyQf7g3hn/giphy.gif" alt="side Gif" width="100px" /></a>
     
  <ul>
   <img src="https://github.com/faizramadhan0202/faizramadhan0202/blob/main/Assets/Sleep%20Code_2.gif" alt="side Image" align="right" width="200" height="auto" />
