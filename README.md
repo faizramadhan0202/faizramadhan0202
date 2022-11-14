@@ -1,14 +1,14 @@
 <div id="header" align="center">
   <!--<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>-->
-  <h1 style="text-decoration: none;">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Faiz Ramadhan Nasution</h1>
-  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="30%">
+  <h1 style="text-decoration: none;">Hi <img src="https://github.com/faizramadhan0202/faizramadhan0202/blob/main/Assets/hand_1.gif" width="40px">, I am Faiz Ramadhan Nasution</h1>
+  <img src="https://github.com/faizramadhan0202/faizramadhan0202/blob/main/Assets/Developer6.gif" width="30%">
 
   <div id="badges">
     <!--<img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>-->
     <a href="https://www.linkedin.com/in/faiz-ramadhan-nasution/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="mailto:aditya.pal.science@gmail.com">
+    <a href="mailto:faizramadhan0202@gmail.com>
       <img src="https://img.shields.io/badge/Gmail-F05032?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail Badge"/>
     </a>
     <a href="https://www.instagram.com/vaiz_lake/">
@@ -18,16 +18,27 @@
   </div> 
 </div>
 
-  ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
-  <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
-  <a href="https://ko-fi.com/sciencepal"> <img src="https://media3.giphy.com/media/ZEB6yFbLnhyQf7g3hn/giphy.gif" alt="side Gif" align="right" width="150" height="auto"/></a>
-    
-  - :boy: I am a Front End Developer And Data Analytics in Indonesia 🇮🇩
-  - :notebook_with_decorative_cover: I'm Currently Studying Front End and Data analytics
-  - :tea: Tea is My Favorite Drink
-  - <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="20px"> Music Now Playing
-  - :runner: "Do it while you can and never stop doing what you want" 🏆
- 
+  ### <img src="https://github.com/faizramadhan0202/faizramadhan0202/blob/main/Assets/Developer1.gif" width="45" /> About Me: <a href="https://ko-fi.com/sciencepal"> <img src="https://media3.giphy.com/media/ZEB6yFbLnhyQf7g3hn/giphy.gif" alt="side Gif" width="100" height="auto"/></a>
+  
+ <div>
+  <ul>
+   <img src="https://github.com/faizramadhan0202/faizramadhan0202/blob/main/Assets/Sleep%20Code_2.gif" align="right" alt="side Image" width="200" height="auto" />
+    <li> 
+      <img src="https://github.com/faizramadhan0202/faizramadhan0202/blob/main/Assets/Developer2.gif" width="20px"/>&nbsp; I am a Front End Developer And Data Analytics in Indonesia 🇮🇩 
+    </li>
+    <li> 
+      <img src="https://github.com/faizramadhan0202/faizramadhan0202/blob/main/Assets/book_2.gif" width="20px" />&nbsp; I'm Currently Studying Front End and Data analytics 
+    </li>
+    <li>
+      <img src="https://github.com/faizramadhan0202/faizramadhan0202/blob/main/Assets/Tea.gif" width="20px" />&nbsp; Tea is My Favorite Drink 
+    </li>
+    <li>
+      <img src="https://github.com/faizramadhan0202/faizramadhan0202/blob/main/Assets/music.gif" width="20px">&nbsp; Music Now Playing
+    </li>
+    <li> 
+      <img src="https://github.com/faizramadhan0202/faizramadhan0202/blob/main/Assets/run_1.gif" width="20px" />&nbsp; "Do it while you can and never stop doing what you want" 🏆 
+    </li>
+ </ul>
   
   ### :hammer_and_wrench: Languages and Tools :
  
