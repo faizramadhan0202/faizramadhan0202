@@ -39,7 +39,7 @@
   </li>
 </ul>
   
-  ### <img src="https://github.com/faizramadhan0202/faizramadhan0202/blob/main/Assets/hammer_1.gif" width="45" /> Languages and Tools :
+  ### <img src="https://github.com/faizramadhan0202/faizramadhan0202/blob/main/Assets/hammer_1.gif" width="55" /> Languages and Tools :
  
   <div>
    <img src="https://img.shields.io/badge/HTML-282C34?logo=html5&logoColor=orange" alt="html logo" title="HTML" height="25" />
@@ -53,5 +53,5 @@
    <!--<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="50" height="50"/>&nbsp;-->
   </div>
 
-### <img src="https://github.com/faizramadhan0202/faizramadhan0202/blob/main/Assets/snake_1.gif" width="45" /> Contribution Grid :
+### <img src="https://github.com/faizramadhan0202/faizramadhan0202/blob/main/Assets/snake_1.gif" width="40" /> Contribution Grid :
 ![snake gif](https://github.com/faizramadhan0202/faizramadhan0202/blob/output/github-contribution-grid-snake.gif)
