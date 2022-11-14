@@ -8,7 +8,7 @@
     <a href="https://www.linkedin.com/in/faiz-ramadhan-nasution/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="mailto:faizramadhan0202@gmail.com>
+    <a href="mailto:faizramadhan0202@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-F05032?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail Badge"/>
     </a>
     <a href="https://www.instagram.com/vaiz_lake/">
@@ -18,7 +18,7 @@
   </div> 
 </div>
 
-  ### <img src="https://github.com/faizramadhan0202/faizramadhan0202/blob/main/Assets/Developer1.gif" width="45" /> About Me: <a href="https://ko-fi.com/sciencepal"> <img src="https://media3.giphy.com/media/ZEB6yFbLnhyQf7g3hn/giphy.gif" alt="side Gif" width="100" height="auto"/></a>
+  ### <img src="https://github.com/faizramadhan0202/faizramadhan0202/blob/main/Assets/Developer1.gif" width="30" /> About Me : <a href="https://github.com/faizramadhan0202"> <img src="https://media3.giphy.com/media/ZEB6yFbLnhyQf7g3hn/giphy.gif" alt="side Gif" width="100" height="auto"/></a>
   
  <div>
   <ul>
@@ -36,7 +36,7 @@
       <img src="https://github.com/faizramadhan0202/faizramadhan0202/blob/main/Assets/music.gif" width="20px">&nbsp; Music Now Playing
     </li>
     <li> 
-      <img src="https://github.com/faizramadhan0202/faizramadhan0202/blob/main/Assets/run_1.gif" width="20px" />&nbsp; "Do it while you can and never stop doing what you want" 🏆 
+      <img src="https://github.com/faizramadhan0202/faizramadhan0202/blob/main/Assets/run_2.gif" width="15px" />&nbsp; "Do it while you can and never stop doing what you want" 🏆 
     </li>
  </ul>
   
@@ -53,3 +53,5 @@
    <img src="https://img.shields.io/badge/Tableau-282C34?logo=Tableau&logoColor=white" alt="Tableau logo" title="Tableau" height="25" />  
    <!--<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="50" height="50"/>&nbsp;-->
   </div>
+
+### :snake: Contribution Grid :![snake gif](https://github.com/faizramadhan0202/faizramadhan0202/blob/output/github-contribution-grid-snake.gif)
