@@ -26,7 +26,7 @@
     <img src="https://github.com/faizramadhan0202/faizramadhan0202/blob/main/Assets/Developer2.gif" width="20px">&nbsp; I am a Front End Developer And Data Analytics in Indonesia 🇮🇩
   </li>
   <li>
-    <img src="https://github.com/faizramadhan0202/faizramadhan0202/blob/main/Assets/book_2.gif" width="20px">&nbsp; I'm Currently Studying Front End and Data analytics
+    <img src="https://github.com/faizramadhan0202/faizramadhan0202/blob/main/Assets/book_2.gif" width="20px">&nbsp; I'm Currently Studying Data analytics
   </li>
   <li>
     <img src="https://github.com/faizramadhan0202/faizramadhan0202/blob/main/Assets/Tea.gif" width="20px">&nbsp; Tea is My Favorite Drink
