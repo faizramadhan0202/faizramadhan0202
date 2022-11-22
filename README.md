@@ -50,7 +50,7 @@
    <img src="https://img.shields.io/badge/Microsoft_SQL_Server-282C34?logo=microsoft-sql-server&logoColor=F05032" alt="microsoft sql server logo" title="Microsoft Sql Server" height="25" />
    <img src="https://img.shields.io/badge/Microsoft_Excel-282C34?logo=microsoft-excel&logoColor=00C300" alt="microsoft-excel logo" title="Microsoft Excel" height="25" />
    <img src="https://img.shields.io/badge/Tableau-282C34?logo=Tableau&logoColor=white" alt="Tableau logo" title="Tableau" height="25" />
-   <img src="https://img.shields.io/badge/Python-323330?logo=Python&logoColor=white" alt="Python logo" title="Python" height="25" />       
+   <img src="https://img.shields.io/badge/Python-282C34?logo=Python&logoColor=F7DF1E" alt="Python logo" title="Python" height="25" />       
    <!--<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="50" height="50"/>&nbsp;-->
   </div>
 
