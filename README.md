@@ -54,5 +54,5 @@
    <!--<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="50" height="50"/>&nbsp;-->
   </div>
 
-### <img src="https://github.com/faizramadhan0202/faizramadhan0202/blob/main/Assets/snake_1.gif" width="40" /> Contribution Grid :
-![snake gif](https://github.com/faizramadhan0202/faizramadhan0202/blob/output/github-contribution-grid-snake.gif)
+<!-- ### <img src="https://github.com/faizramadhan0202/faizramadhan0202/blob/main/Assets/snake_1.gif" width="40" /> Contribution Grid : -->
+<!--![snake gif](https://github.com/faizramadhan0202/faizramadhan0202/blob/output/github-contribution-grid-snake.gif)-->
