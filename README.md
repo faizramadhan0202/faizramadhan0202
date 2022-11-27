@@ -23,7 +23,7 @@
  <ul>
   <img src="https://github.com/faizramadhan0202/faizramadhan0202/blob/main/Assets/Sleep%20Code_2.gif" alt="side Image" align="right" width="200" height="auto" />
   <li>
-    <img src="https://github.com/faizramadhan0202/faizramadhan0202/blob/main/Assets/Developer2.gif" width="20px">&nbsp; I am a Front End Developer And Data Analytics in Indonesia 🇮🇩
+    <img src="https://github.com/faizramadhan0202/faizramadhan0202/blob/main/Assets/Developer2.gif" width="20px">&nbsp; I am a I am a Data Analytics And Business Analytics in Indonesia 🇮🇩
   </li>
   <li>
     <img src="https://github.com/faizramadhan0202/faizramadhan0202/blob/main/Assets/book_2.gif" width="20px">&nbsp; I'm Currently Studying Data analytics
@@ -47,7 +47,7 @@
    <img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />
    <img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="Git" height="25" />
    <img src="https://img.shields.io/badge/MySQL-282C34?logo=mysql&logoColor=white" alt="mysql logo" title="MySql" height="25" />
-   <img src="https://img.shields.io/badge/Microsoft_SQL_Server-282C34?logo=microsoft-sql-server&logoColor=F05032" alt="microsoft sql server logo" title="Microsoft Sql Server" height="25" />
+   <img src="https://img.shields.io/badge/Microsoft_SQL_Server-282C34?&logo=microsoft-sql-server&logoColor=F05032" alt="microsoft sql server logo" title="Microsoft Sql Server" height="25" />
    <img src="https://img.shields.io/badge/Microsoft_Excel-282C34?logo=microsoft-excel&logoColor=00C300" alt="microsoft-excel logo" title="Microsoft Excel" height="25" />
    <img src="https://img.shields.io/badge/Tableau-282C34?logo=Tableau&logoColor=white" alt="Tableau logo" title="Tableau" height="25" />
    <!--<img src="https://img.shields.io/badge/Python-282C34?logo=Python&logoColor=F7DF1E" alt="Python logo" title="Python" height="25" /> -->
