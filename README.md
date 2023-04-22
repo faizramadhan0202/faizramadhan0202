@@ -23,7 +23,7 @@
  <ul>
   <img src="https://github.com/faizramadhan0202/faizramadhan0202/blob/main/Assets/Sleep%20Code_2.gif" alt="side Image" align="right" width="200" height="auto" />
   <li>
-    <img src="https://github.com/faizramadhan0202/faizramadhan0202/blob/main/Assets/Developer2.gif" width="20px">&nbsp; I am a I am a Data Analytics And Business Analytics in Indonesia 🇮🇩
+    <img src="https://github.com/faizramadhan0202/faizramadhan0202/blob/main/Assets/Developer2.gif" width="20px">&nbsp; I am a I am a Data Analytics in Indonesia 🇮🇩
   </li>
   <li>
     <img src="https://github.com/faizramadhan0202/faizramadhan0202/blob/main/Assets/book_2.gif" width="20px">&nbsp; I'm Currently Studying Data analytics
