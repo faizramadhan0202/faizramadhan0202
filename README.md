@@ -14,7 +14,7 @@
     <a href="https://www.instagram.com/vaiz_lake/">
       <img src="https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram&logoColor=white" title="Instagram" alt="Instagram Badge"/>
     </a>
-    <h3 align="center"> Data Analytics | Business Analytics </h3>
+    <h3 align="center"> Data Analytics </h3>
   </div> 
 </div>
 
